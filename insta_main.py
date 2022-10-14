@@ -7,6 +7,7 @@ from st_aggrid.shared import GridUpdateMode
 from random import randint
 from streamlit_option_menu import option_menu
 
+st.set_page_config(page_title = 'InstagramReachAnalysis' , page_icon = 'random' , layout = "centered"  ,initial_sidebar_state = 'auto')  
 
 pages_dict = {"Home" : home_page , "View Data": view_dataset , "Visualise Data": visualise , "Predict" : prediction} 
 
