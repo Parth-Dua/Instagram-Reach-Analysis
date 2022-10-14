@@ -14,7 +14,7 @@ pages_dict = {"Home" : home_page , "View Data": view_dataset , "Visualise Data":
 df = pd.read_csv('Instagram_data.csv')
 
 
-page_selected = option_menu(menu_title = "Main Menu" , options = list(pages_dict.keys()) , default_index = 0 , orientation = 'horizontal' , key = 1)
+page_selected = option_menu(menu_title = "Main Menu" , options = list(pages_dict.keys()) , default_index = 0 , orientation = 'horizontal')
 pages_dict[page_selected].app(df)
 
 def aggrid_interactive_table(df: pd.DataFrame):
