@@ -22,7 +22,10 @@ The dataset contains 119 rows and 11 main features namely 'Impressions', 'Captio
 
 
 Functioning of the code:
-The main file is insta_main.py which links all the pages and includes the code for the navigation between pages. The home_page consists of code for the home page . The  visualise file is used for data visualisation. The view_data file is used for viewing and analysing the dataset. The prediction file is used to predict impressions with 3 popular machine learning models.
+The main file is insta_main.py which links all the pages and includes the code for the navigation between pages. The home_page consists of code for the home page . The  visualise file is used for data visualisation. The view_data file is used for viewing and analysing the dataset. The prediction file is used to predict impressions with 3 popular machine learning models. 
+The View Dataset file consists of a highly interactive display of the dataset with filters, viewing specific columns etc. 
+The correlation graphs and distributions are highly interactive and the features can be selected .
+The prediction model does not use hyper parameter tuning INTENTIONALLY so as to make a highly interactive web app in which users can experiment and have COMPLETE control of the machine learning model. 
 
 
 Requirements : 
