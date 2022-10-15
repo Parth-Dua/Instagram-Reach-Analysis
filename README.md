@@ -3,6 +3,9 @@ Project for Decagon 2022 ( Data Analysis D8A)
 
 Instagram Reach Analysis
 
+link for website :
+https://parth-dua-instagram-reach-analysis-insta-main-34ig5b.streamlitapp.com/
+
 This Instagram Data Analysis is beneficial to both the users as well as Instagram's parent company Meta.
 
 For users, this project showcases the various trends in instagram data. It helps to analyse which independent variables corresponds to the highest popularity on instagram. The users can also predict the total impressions on their posts given the likes,shares, comments etc. This project will also help users choose the the popular hashtags and captions .
